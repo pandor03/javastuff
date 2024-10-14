@@ -1,0 +1,16 @@
+6
+ingatlan
+ingatlan
+szolgáltatás 500
+ingatlan
+ingatlan
+szolgáltatás 1000
+3
+Jani Mohó
+Laci Óvatos
+Feri Taktikus
+1
+2
+3
+4
+5

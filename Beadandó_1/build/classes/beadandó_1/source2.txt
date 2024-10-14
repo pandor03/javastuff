@@ -1,0 +1,26 @@
+10
+ingatlan
+ingatlan
+szerencse 1000
+ingatlan
+ingatlan
+szolgáltatás 2000
+ingatlan
+ingatlan
+ingatlan
+szolgáltatás 3000
+5
+Bob Mohó
+Jack Óvatos
+Max Óvatos
+Andrew Taktikus
+Marshall Mohó
+1
+2
+3
+4
+5
+4
+3
+2
+1
